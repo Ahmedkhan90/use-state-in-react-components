@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Bright{
+  background-color: white;
+  color: black;
+}
+.Dark{
+  background-color: black;
+  color: white;
+}
+
+#bground{
+  width: 50%;
+  height: 52em;
+  text-align: center;
+  margin-left: 50%;
+}
+
+#text{
+   padding-top: 20%;
+   font-size: 70px;
+}
+
+.Yellow{
+  background-color: yellow;
+  color: blue;
+}
+.Blue{
+  background-color: blue;
+  color: yellow;
+}
+
+#ybbground{
+  width: 50%;
+  height: 39em;
+  text-align: center;
+}
+
+#ybtext{
+   padding-top: 20%;
+   font-size: 70px;
+}
